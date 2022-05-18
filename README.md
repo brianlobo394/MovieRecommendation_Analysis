@@ -2,7 +2,7 @@
 This is a project for Analyzing movies. In this project we will analyze the top movies and actors as per their popularity, budget and .
 
 ## Project Objective
-We all love to watch movies, and as there are different genres of movies we have our own likes and preferences. This project was aimed to understand to implement Exploratory Data Analysis and understand the different aspects of movies such as budget, profits earned, languages, duration, genres, popularity etc.
+We all love to watch movies, and as there are different genres of movies we have our own likes and preferences. This project was aimed to understand and implement Exploratory Data Analysis and analyze the different aspects of movies such as budget, profits earned, languages, duration, genres, popularity etc.
 
 ### Methods Used
 * Data Cleaning
