@@ -17,7 +17,7 @@ We all love to watch movies, and as there are different genres of movies we have
 * Seaborn
 
 ## Getting Started
-#### FIFA18 Data
+#### Movies Data
 Raw Data is being kept [here](https://github.com/brianlobo394/MovieRecommendation_Analysis/blob/master/movie_metadata.csv) within this repository.\
 The Code is written in Python 3.7. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip.
 
